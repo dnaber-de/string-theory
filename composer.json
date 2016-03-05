@@ -1,0 +1,23 @@
+{
+  "name": "dnaber/string-theory",
+  "description": "Objective multi-byte string handling",
+  "keywords": [ "string", "utf8", "multi-byte", "scanner" ],
+  "type": "library",
+  "authors" : [
+    {
+      "name": "David Naber",
+      "email": "kontakt@dnaber.de",
+      "hompage": "https://dnaber.de/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "StringTheory\\": "src/"
+    }
+  }
+}
