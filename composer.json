@@ -7,7 +7,7 @@
     {
       "name": "David Naber",
       "email": "kontakt@dnaber.de",
-      "hompage": "https://dnaber.de/",
+      "homepage": "https://dnaber.de/",
       "role": "Developer"
     }
   ],
@@ -19,5 +19,8 @@
     "psr-4": {
       "StringTheory\\": "src/"
     }
+  },
+  "support": {
+    "issues": "https://github.com/dnaber-de/string-theory/issues"
   }
 }
