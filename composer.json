@@ -3,6 +3,7 @@
   "description": "Objective multi-byte string handling",
   "keywords": [ "string", "utf8", "multi-byte", "scanner" ],
   "type": "library",
+  "license": "MIT",
   "authors" : [
     {
       "name": "David Naber",
