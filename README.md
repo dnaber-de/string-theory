@@ -1,18 +1,17 @@
-# String Theory
+# StringType Theory
 
 Objective multi-byte string handling in PHP.
 
 ## public API
 
 
-### `StringTheory\Type\String`
+### `StringTheory\Type\StringType`
 
 The basic string interface.
 
 ### `StringTheory\Type\MbString`
 
-Implementation of `String` for multi-byte strings. Default encoding 
-is set to `UTF-8`.
+Implementation of `StringType` for multi-byte strings. Default encoding is set to `UTF-8`.
 
 Example:
 ```php

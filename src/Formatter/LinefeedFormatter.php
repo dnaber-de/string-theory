@@ -13,7 +13,7 @@ use
 interface LinefeedFormatter {
 
 	/**
-	 * @param  Type\String|string $string
+	 * @param  Type\StringType|string $string
 	 *
 	 * @return string
 	 */

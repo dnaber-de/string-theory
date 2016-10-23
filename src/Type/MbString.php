@@ -7,7 +7,7 @@ namespace StringTheory\Type;
  *
  * @package StringTheory\Type
  */
-class MbString implements String {
+class MbString implements StringType {
 
 	/**
 	 * @var string

@@ -15,7 +15,7 @@ class LfLinefeedFormatter implements LinefeedFormatter {
 	/**
 	 * Replaces CRLF and single CR with LF
 	 *
-	 * @param  Type\String|string $string
+	 * @param  Type\StringType|string $string
 	 *
 	 * @return string
 	 */

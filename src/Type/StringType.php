@@ -6,11 +6,11 @@ use
 	ArrayAccess;
 
 /**
- * Interface String
+ * Interface StringType
  *
  * @package StringTheory\Type
  */
-interface String extends ArrayAccess {
+interface StringType extends ArrayAccess {
 
 	/**
 	 * @return string

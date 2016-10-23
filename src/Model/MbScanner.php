@@ -43,8 +43,8 @@ class MbScanner implements Scanner {
 	private $encoding = 'UTF-8';
 
 	/**
-	 * @param string|Type\String $string
-	 * @param string $encoding (Optional, default to UTF-8)
+	 * @param string|Type\StringType $string
+	 * @param string                 $encoding (Optional, default to UTF-8)
 	 */
 	public function __construct( $string, $encoding = 'UTF-8' ) {
 
